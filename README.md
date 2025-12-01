@@ -1,8 +1,11 @@
 # Sales-Data-Analysis
-## Excel Data Set:
+##Requairments:
 
+Skills Used:
+Data cleaning and preparation: Handling missing values, duplicates, and formatting inconsistencies.
+Data visualization: Creating charts, dashboards, and reports to communicate insights clearly.
 
-## KPIs Quastions:
+## Quastions:
 1. Analysis All data with Two Different Dates Sales/Profit/Quantity Sold 
 2. Compare sales/profit/quantity sold between any two periods selected by the user.
 3. Top/Bottom 5 product by Sales/Profit/Quantity Sold.
