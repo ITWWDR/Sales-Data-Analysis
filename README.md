@@ -1,4 +1,7 @@
 # Sales-Data-Analysis
+## Excel Data Set:
+
+
 ## KPIs Quastions:
 1. Analysis All data with Two Different Dates Sales/Profit/Quantity Sold 
 2. Compare sales/profit/quantity sold between any two periods selected by the user.
